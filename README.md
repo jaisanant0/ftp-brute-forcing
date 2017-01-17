@@ -1,6 +1,6 @@
 DESCIPTION :
 
-ftpbrute.py will attack ftp server with brute force attack to login
+ftpbrute.py will attack ftp server with brute force attack to login.
 
 USAGE :
 
